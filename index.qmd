@@ -1,5 +1,7 @@
 ---
 title: "ExceloversBlog"
+lang: es
+author: "Charlie Do Amaral"
 listing:
   contents: posts
   sort: "date desc"
