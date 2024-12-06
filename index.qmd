@@ -1,5 +1,5 @@
 ---
-title: "ExceloversBlog"
+title: "ExceLovers"
 lang: es
 author: "Charlie Do Amaral"
 listing:
@@ -10,7 +10,7 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
 
 
