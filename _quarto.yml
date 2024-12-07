@@ -5,7 +5,7 @@ website:
   title: "ExceLovers"
   navbar:
     right:
-      - about.qmd
+      - proposito.qmd
       - icon: linkedin
         href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
  

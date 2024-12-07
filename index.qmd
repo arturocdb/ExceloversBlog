@@ -1,5 +1,6 @@
 ---
 title: "ExceLovers"
+subtitle: "Subtítulo"
 lang: es
 author: "Charlie Do Amaral"
 listing:

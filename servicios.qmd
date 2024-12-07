@@ -1,0 +1,14 @@
+---
+title: "Servicios"
+image: profile.jpg
+about:
+  template: solana
+  links:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
+
+---
+
+## Servicios
+
+Servicios
