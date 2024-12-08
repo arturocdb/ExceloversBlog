@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 492eda79-3eb5-4791-91d6-96b2d560eb0c
+      url: https://glittering-peony-2ce307.netlify.app

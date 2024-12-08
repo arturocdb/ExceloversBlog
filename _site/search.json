@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "servicios.html",
+    "href": "servicios.html",
+    "title": "Servicios",
     "section": "",
-    "text": "Acerca de este blog"
+    "text": "Servicios"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "servicios.html#servicios",
+    "href": "servicios.html#servicios",
+    "title": "Servicios",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Plantillas pro, para un pro",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n6 dic 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n3 dic 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo hay resultados"
-  },
-  {
-    "objectID": "proposito.html",
-    "href": "proposito.html",
-    "title": "Información",
-    "section": "",
-    "text": "El propósito de ExceLovers es proporcionar a nuestros clientes soluciones prácticas basadas en hojas de cálculo. Las soluciones prácticas se traducen en plantillas en Excel como control de inventario, Presupuesto, Estimación de la demanda, Cálculo del ciclo de vida del producto, etc. Todas estas soluciones se basan en un contexto de negocio, de modo que puedan resolver los desafíos a los que se enfrentan nuestros clientes en su día a día."
-  },
-  {
-    "objectID": "proposito.html#propósito",
-    "href": "proposito.html#propósito",
-    "title": "Información",
-    "section": "",
-    "text": "El propósito de ExceLovers es proporcionar a nuestros clientes soluciones prácticas basadas en hojas de cálculo. Las soluciones prácticas se traducen en plantillas en Excel como control de inventario, Presupuesuesto, Estimación de la demanda, Cálculo del ciclo de vida del producto, etc. Todas estas soluciones se basan en un contexto de negocio, de modo que puedan resolver los desafíos a los que se enfrentan nuestros clientes en su día a día."
+    "text": "Servicios"
   },
   {
     "objectID": "productos.html",
@@ -56,18 +28,39 @@
     "text": "Productos"
   },
   {
-    "objectID": "servicios.html",
-    "href": "servicios.html",
-    "title": "Servicios",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Servicios"
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "servicios.html#servicios",
-    "href": "servicios.html#servicios",
-    "title": "Servicios",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Nosotros",
     "section": "",
-    "text": "Servicios"
+    "text": "Acerca de este blog\nTexto texto"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Plantillas pro, para un pro",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n6 dic 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n3 dic 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "proposito.html",
+    "href": "proposito.html",
+    "title": "Información",
+    "section": "",
+    "text": "El propósito de ExceLovers es proporcionar a nuestros clientes soluciones prácticas basadas en hojas de cálculo. Las soluciones prácticas se traducen en plantillas en Excel como control de inventario, Presupuesto, Estimación de la demanda, Cálculo del ciclo de vida del producto, etc. Todas estas soluciones se basan en un contexto de negocio, de modo que puedan resolver los desafíos a los que se enfrentan nuestros clientes en su día a día."
   },
   {
     "objectID": "proposito.html#productos",
