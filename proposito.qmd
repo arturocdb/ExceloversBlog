@@ -28,6 +28,7 @@ De forma general, las plantillas vienen acompañadas de material adicional, como
 
 El libro tiene como objetivo principal ser su gúia confiable y compañero de aprendizaje en el proceso de dominar los fundamentos de la creación de modelos de datos, informes y reportes utilizando Power Pivot. A través de ejemplos prácticos y guiados paso a paso, el libro lo introduce en una experiencia de aprendizaje comprensible, permitiéndole desarrollar habilidades sólidas en la creación de soluciones de inteligencia de negocio efectivas con Power Pivot.
 
+![](power_pivot.png)
 
 ## Acerca de mí
 
